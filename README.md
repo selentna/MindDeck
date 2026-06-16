@@ -9,8 +9,15 @@
 ---
 
 ## 🚀 Hızlı Başlangıç
-Aşağıdaki test kullanıcılarından biriyle giriş yapın.
-> Adres çubuğuna `https://minddeck-awcux7yxkxgdfjdxepe95d.streamlit.app/` yazın.
+
+1. Klasörü bir yere çıkartın.
+2. **`calistir.bat`** dosyasına çift tıklayın.
+   - Gerekli kütüphaneler otomatik yüklenir.
+   - Veritabanı otomatik hazırlanır.
+   - Tarayıcıda **http://localhost:8501** adresinde açılır.
+3. Aşağıdaki test kullanıcılarından biriyle giriş yapın.
+
+> Tarayıcı kendiliğinden açılmazsa adres çubuğuna `https://minddeck-awcux7yxkxgdfjdxepe95d.streamlit.app/` yazın.
 
 ---
 
@@ -89,6 +96,10 @@ geliştirme projesiyle doldurulmuştur:
 **Python yüklü değil diyor.**
 [python.org](https://www.python.org) adresinden Python 3.10+ kurun, kurulumda
 *"Add Python to PATH"* kutusunu işaretleyin.
+
+**Veritabanını sıfırlamak istiyorum.**
+`proje_yonetim.db` dosyasını silip `calistir.bat`'ı tekrar çalıştırın;
+örnek verilerle yeniden oluşturulur.
 
 **Tema seçimi kayıtlı kalıyor mu?**
 Oturum boyunca korunur; uygulamayı yeniden başlatınca açık temadan başlar.
