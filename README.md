@@ -90,10 +90,6 @@ geliştirme projesiyle doldurulmuştur:
 [python.org](https://www.python.org) adresinden Python 3.10+ kurun, kurulumda
 *"Add Python to PATH"* kutusunu işaretleyin.
 
-**Veritabanını sıfırlamak istiyorum.**
-`proje_yonetim.db` dosyasını silip `calistir.bat`'ı tekrar çalıştırın;
-örnek verilerle yeniden oluşturulur.
-
 **Tema seçimi kayıtlı kalıyor mu?**
 Oturum boyunca korunur; uygulamayı yeniden başlatınca açık temadan başlar.
 
