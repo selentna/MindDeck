@@ -9,15 +9,8 @@
 ---
 
 ## 🚀 Hızlı Başlangıç
-
-1. Klasörü bir yere çıkartın.
-2. **`calistir.bat`** dosyasına çift tıklayın.
-   - Gerekli kütüphaneler otomatik yüklenir.
-   - Veritabanı otomatik hazırlanır.
-   - Tarayıcıda **http://localhost:8501** adresinde açılır.
-3. Aşağıdaki test kullanıcılarından biriyle giriş yapın.
-
-> Tarayıcı kendiliğinden açılmazsa adres çubuğuna `http://localhost:8501` yazın.
+Aşağıdaki test kullanıcılarından biriyle giriş yapın.
+> Adres çubuğuna `https://minddeck-awcux7yxkxgdfjdxepe95d.streamlit.app/` yazın.
 
 ---
 
